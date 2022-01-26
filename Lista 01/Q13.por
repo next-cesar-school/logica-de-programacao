@@ -1,30 +1,18 @@
 programa
 {
-	inclua biblioteca Matematica -->mat
+	
 /*Lista de Exercícios 01
  * Exercícios de Aprofundamento
- * Questão: 11
+ * Questão: 13
  * usei a biblioteca de matemática para arredondar os valores
  */
 	
 	funcao inicio()
-	{	
-		inteiro hora_inicio, hora_fim,total
-		leia(hora_inicio, hora_fim)
-		se(hora_fim>hora_inicio)
-		{
-			total = hora_fim-hora_inicio
-			
-		}
-		senao se(hora_fim<hora_inicio)
-		{
-			total = (24-hora_inicio)+hora_fim
-		}
-		senao
-		{
-			total=24
-		}
-		escreva(total)
+	{	real valor_dolar,cotacao_dolar,valor_real
+		leia(cotacao_dolar,valor_dolar)
+		valor_real=cotacao_dolar*valor_dolar
+		escreva("Valor em real: ",valor_real)
+		
 	}
 	
 }
@@ -33,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 449; 
+ * @POSICAO-CURSOR = 11; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
