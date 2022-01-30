@@ -1,7 +1,9 @@
-# Lógica de Programação
+# Treinamento Preparatório - NExT
+
+## Lógica de Programação
 Correção das listas de exercícios
 
-<ul>
-<li>Lista de Exercício 1 &#10004</li>
-</ul>
-
+- Lista de Exercício Aula 02 ✅
+- Lista de Exercício Aula 03 ✅
+- Lista de Exercício Aula 04 
+- Lista de Exercício Aula 05 
