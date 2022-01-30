@@ -1,29 +1,29 @@
 programa
 {
-/*Lista de Exercícios 02
- * Exercícios Fundamentais
- * Questão: 2
- */
+	/**
+	 * Lista de Exercícios 02 - Aula 03
+	 * Exercícios Fundamentais
+	 * Questão: 2 - Temperatura C -> F
+	 */
 	
 	funcao inicio()
 	{
-		real celsius,fah
-		leia(celsius)
-
-		fah=celsius*1.8+32
-
-		escreva(fah, "F")
-
+		real c, f
 		
+		leia(c)
 
+		f = c * (9.0 / 5.0) + 32.0
+
+		escreva(f, "ºF")
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 156; 
+ * @POSICAO-CURSOR = 224; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

@@ -1,41 +1,41 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
-/*Lista de Exercícios 02
- * Exercícios Fundamentais
- * Questão: 5
- */
+	/**
+	 * Lista de Exercícios 02 - Aula 03
+	 * Exercícios Fundamentais
+	 * Questão: 5 - Dominó
+	 */
 	
 	funcao inicio()
 	{
-		real jogador1,jogador2,jogador3,jogador4,aux
+		inteiro j1, j2, j3, j4
 		
-		leia(jogador1,jogador2,jogador3,jogador4)
+		leia(j1, j2, j3, j4)
 		
-		aux = mat.menor_numero(jogador1, jogador2)
-		aux = mat.menor_numero(aux, jogador3)
-		aux = mat.menor_numero(aux, jogador4)
+		se(j1 < j2 e j1 < j3 e j1 < j4) {
+			escreva("Jogador(a) 1 que venceu com ", j1, " ponto(s)")
+		}
 
-		se(aux==jogador1){
-			escreva("Jogador(a) 1 que venceu com ", jogador1, " ponto")
-		}
-		se(aux==jogador2){
-			escreva("Jogador(a) 2 que venceu com ", jogador2, " ponto")
-		}senao se (aux==jogador3){
-			escreva("Jogador(a) 3 que venceu com ", jogador3, " ponto")
-		}senao{
-			escreva("Jogador(a) 4 que venceu com ", jogador4, " ponto")
+		se(j2 < j1 e j2 < j3 e j2 < j4) {
+			escreva("Jogador(a) 2 que venceu com ", j2, " ponto(s)")
 		}
 		
-		
+		se(j3 < j1 e j3 < j2 e j3 < j4) {
+			escreva("Jogador(a) 3 que venceu com ", j3, " ponto(s)")
+		}
+
+		se(j4 < j1 e j4 < j2 e j4 < j3) {
+			escreva("Jogador(a) 4 que venceu com ", j4, " ponto(s)")
+		}
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 636; 
+ * @POSICAO-CURSOR = 131; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
