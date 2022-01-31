@@ -5,6 +5,7 @@ programa
 	 * Exercícios Fundamentais
 	 * Questão: 05 - Requisitos para vaga
 	 */
+	
 	funcao inicio()
 	{
 		inteiro idade, anos_atividade

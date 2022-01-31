@@ -1,6 +1,5 @@
 programa
 {
-
 	/**
 	 * Lista de Exercícios 01 - Aula 02
 	 * Exercícios de Aprofundamento

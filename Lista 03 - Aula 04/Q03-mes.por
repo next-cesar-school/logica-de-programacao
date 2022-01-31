@@ -1,11 +1,11 @@
 programa
 {
-	
 	/**
 	 * Lista de Exercícios 03 - Aula 04
 	 * Exercícios Fundamentais
 	 * Questão: 03 - Mês
 	 */
+	
 	funcao inicio()
 	{
 		inteiro mes

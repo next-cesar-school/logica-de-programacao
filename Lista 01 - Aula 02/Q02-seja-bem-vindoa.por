@@ -1,10 +1,10 @@
 programa
 {
 	/**
-	* Lista de Exercícios 01 - Aula 02
-	* Exercícios Fundamentais
-	* Questão: 2 - Seja bem-vindo(a)
-	*/
+	 * Lista de Exercícios 01 - Aula 02
+	 * Exercícios Fundamentais
+	 * Questão: 2 - Seja bem-vindo(a)
+	 */
 	
 	funcao inicio()
 	{

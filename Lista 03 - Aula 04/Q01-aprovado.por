@@ -5,6 +5,7 @@ programa
 	 * Exercícios Fundamentais
 	 * Questão: 01 - Aprovado
 	 */
+	
 	funcao inicio()
 	{
 		real nota

@@ -1,6 +1,6 @@
 programa
 {
-	/**
+	/**
 	 * Lista de Exercícios 03 - Aula 04
 	 * Exercícios Fundamentais
 	 * Questão: 02 - Matricula School

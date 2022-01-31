@@ -1,10 +1,11 @@
 programa
 {
-	/**
+	/**
 	 * Lista de Exercícios 03 - Aula 04
 	 * Exercícios Fundamentais
 	 * Questão: 06 - Nota e recuperação
 	 */
+	
 	funcao inicio()
 	{
 		real nota, nota_rec

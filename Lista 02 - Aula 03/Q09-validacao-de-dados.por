@@ -1,12 +1,12 @@
 programa
 {
-	inclua biblioteca Texto --> txt
-	
-	/**
+	/**
 	 * Lista de Exercícios 02 - Aula 03
 	 * Exercícios de Aprofundamento
 	 * Questão: 9 - Validadão de Dados
 	 */
+	 
+	inclua biblioteca Texto --> txt
 	 
 	funcao inicio()
 	{

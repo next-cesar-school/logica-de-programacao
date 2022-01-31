@@ -1,10 +1,10 @@
 programa
 {
 	/**
-	* Lista de Exercícios 01 - Aula 02
-	* Exercícios Fundamentais
-	* Questão: 3 - Soma Simples
-	*/
+	 * Lista de Exercícios 01 - Aula 02
+	 * Exercícios Fundamentais
+	 * Questão: 3 - Soma Simples
+	 */
 	
 	funcao inicio()
 	{

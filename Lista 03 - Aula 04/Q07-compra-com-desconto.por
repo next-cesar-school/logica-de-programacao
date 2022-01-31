@@ -1,10 +1,11 @@
 programa
 {
-	/**
+	/**
 	 * Lista de Exercícios 03 - Aula 04
 	 * Exercícios Fundamentais
 	 * Questão: 07 - Compra com desconto
 	 */
+	
 	funcao inicio()
 	{
 		inteiro quantidade
