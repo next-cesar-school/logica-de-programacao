@@ -8,5 +8,5 @@ Correção das listas de exercícios
 - Lista de Exercício Aula 04 ✅
 - Lista de Exercício Aula 05 ✅
 - Lista de Exercício Aula 06 ✅
-- Lista de Exercício Aula 07 ✔️
+- Lista de Exercício Aula 07 ✅
 - Lista de Exercício Aula 08 
