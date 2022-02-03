@@ -22,11 +22,11 @@ programa
 			}
 
 			se(n % 2 != 0) {
-				se(maior > n) {
+				se(n > maior) {
 					maior = n
 				}
 
-				se(menor < n) {
+				se(n < menor) {
 					menor = n
 				}
 
@@ -47,7 +47,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 693; 
+ * @POSICAO-CURSOR = 446; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
