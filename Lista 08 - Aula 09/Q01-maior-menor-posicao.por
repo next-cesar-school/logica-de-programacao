@@ -1,6 +1,6 @@
 programa
 {
-	/**
+	/**
 	 * Lista de Exercícios 08 - Aula 09
 	 * Exercícios Fundamentais
 	 * Questão: 1 - Maior, menor e posição
