@@ -1,6 +1,6 @@
 programa
 {
-	/**
+	/**
 	 * Lista de Exercícios 02 - Aula 03
 	 * Exercícios de Aprofundamento
 	 * Questão: 11 - Signos
@@ -40,6 +40,7 @@ programa
 		}
 	}
 }
+
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
