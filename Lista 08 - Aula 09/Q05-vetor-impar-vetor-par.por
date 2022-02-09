@@ -14,7 +14,9 @@ programa
 		faca {
 			leia(num)
 
-			se(num % 2 == 0 e pos_p < 5) {
+			se(num == 0) {
+                escreva("Zero não pode ser inserido\n")
+            }senao se(num % 2 == 0 e pos_p < 5) {
 				pares[pos_p] = num
 				pos_p++
 			} senao se (num % 2 != 0 e pos_i < 5){
