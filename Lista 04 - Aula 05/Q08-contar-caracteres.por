@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Texto --> txt
+	inclua biblioteca Texto --> txt
 	
 	/**
 	 * Lista de Exercícios 04 - Aula 05
