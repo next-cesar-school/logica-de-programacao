@@ -9,12 +9,14 @@ programa
 	funcao inicio()
 	{
 		inteiro quantidade
-		real valor_total, desconto, valor_c_desconto
+		real valor_camiseta, valor_total, desconto, valor_c_desconto
 		
 		escreva("Informe a quantidade de camisetas: ")
 		leia(quantidade)
-		escreva("Informe o valor total da compra: ")
-		leia(valor_total)
+		escreva("Informe quanto custa uma camiseta: ")
+		leia(valor_camiseta)
+		
+		valor_total = valor_camiseta * quantidade
 
 		se(quantidade < 2) {
 			desconto = 0.0
