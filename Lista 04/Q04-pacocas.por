@@ -3,7 +3,7 @@ programa
 	/**
 	 * Lista de Exercícios 04 - Aula 05
 	 * Exercícios Fundamentais
-	 * Questão: 3 - Paçocas
+	 * Questão: 4 - Paçocas
 	 */
 	
 	funcao inicio()

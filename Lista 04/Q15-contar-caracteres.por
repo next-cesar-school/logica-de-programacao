@@ -5,7 +5,7 @@ programa
 	/**
 	 * Lista de Exercícios 04 - Aula 05
 	 * Exercícios de Aprofundamento
-	 * Questão: 8 - Contar caracteres
+	 * Questão: 15 - Contar caracteres
 	 */
 	
 	funcao inicio()

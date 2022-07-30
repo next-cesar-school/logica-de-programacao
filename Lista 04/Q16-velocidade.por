@@ -2,8 +2,8 @@ programa
 {
 	/**
 	 * Lista de Exercícios 04 - Aula 05
-	 * Exercícios Fundamentais
-	 * Questão: 9 - Velocidade
+	 * Exercícios de Aprofundamento
+	 * Questão: 16 - Velocidade
 	 */
 	
 	funcao inicio()

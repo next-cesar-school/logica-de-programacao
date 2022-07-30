@@ -3,7 +3,7 @@ programa
 	/**
 	 * Lista de Exercícios 04 - Aula 05
 	 * Exercícios Fundamentais
-	 * Questão: 1 - Menor preço
+	 * Questão: 2 - Menor preço
 	 */
 	
 	funcao inicio()

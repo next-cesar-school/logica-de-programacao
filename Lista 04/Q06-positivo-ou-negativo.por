@@ -3,7 +3,7 @@ programa
 	/**
 	 * Lista de Exercícios 04 - Aula 05
 	 * Exercícios Fundamentais
-	 * Questão: 4 - Positivo ou Negativo
+	 * Questão: 6 - Positivo ou Negativo
 	 */
 	
 	funcao inicio()

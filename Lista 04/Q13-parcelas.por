@@ -3,7 +3,7 @@ programa
 	/**
 	 * Lista de Exercícios 04 - Aula 05
 	 * Exercícios Fundamentais
-	 * Questão: 7 - Parcelas
+	 * Questão: 13 - Parcelas
 	 */
 	
 	funcao inicio()

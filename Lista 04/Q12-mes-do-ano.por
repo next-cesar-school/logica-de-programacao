@@ -3,7 +3,7 @@ programa
 	/**
 	 * Lista de Exercícios 04 - Aula 05
 	 * Exercícios Fundamentais
-	 * Questão: 6 - Meses do Ano
+	 * Questão: 12 - Meses do Ano
 	 */
 	
 	funcao inicio()
