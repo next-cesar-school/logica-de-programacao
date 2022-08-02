@@ -11,13 +11,13 @@ programa
 		inteiro n, i, acima = 0
 		real notas[5], media = 0.0, total = 0.0
 		
-		para (n = 0; n < 5; n++) {
+		para(n = 0; n < 5; n++) {
 			leia(notas[n])	
 			total += notas[n]
 			media = total/5.0
 		}
 
-		para (i = 0; i < 5; i++) {
+		para(i = 0; i < 5; i++) {
 			se (notas[i] > media) {
 				acima++
 			}

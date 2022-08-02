@@ -12,10 +12,10 @@ programa
 
 		faca {
 			leia(cor)
-			se (cor != "preta" e cor != "branca") {
+			se(cor != "preta" e cor != "branca") {
 				escreva("Cor de camisa inválida. Digite uma cor correta.\n")
 			}
-		} enquanto (cor != "preta" e cor != "branca")
+		} enquanto(cor != "preta" e cor != "branca")
 
 		escreva("Cor correta.")
 	}

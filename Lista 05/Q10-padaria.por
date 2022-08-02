@@ -16,7 +16,7 @@ programa
 		escreva("preço do pão: ")
 		leia(preco)
 
-		para (n = 1; n <= 20; n++) {
+		para(n = 1; n <= 20; n++) {
 			escreva(n, " - R$ ", mat.arredondar(preco*n,2), "\n")
 		}
 	}

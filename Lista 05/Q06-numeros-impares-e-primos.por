@@ -11,7 +11,7 @@ programa
 		inteiro impar = 0
 		inteiro primo = 1
 
-		para (inteiro numero = 1; numero <= 10; numero++) {
+		para(inteiro numero = 1; numero <= 10; numero++) {
 
 			// Se o numero for diferente de par, ou seja, impar, nos iremos acumular o valor para cada numero impar
 			se(numero % 2 != 0) {
