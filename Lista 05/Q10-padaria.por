@@ -1,5 +1,11 @@
 programa
 {
+	/**
+	 * Lista de Exercícios 05 - Aula 06
+	 * Exercícios de Aprofundamento
+	 * Questão: 10 - Padaria
+	 */
+	
 	inclua biblioteca Matematica --> mat
 	
 	funcao inicio()

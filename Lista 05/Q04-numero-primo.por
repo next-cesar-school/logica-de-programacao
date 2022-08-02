@@ -1,4 +1,10 @@
 programa {
+	/**
+	 * Lista de Exercícios 05 - Aula 06
+	 * Exercícios Fundamentais
+	 * Questão: 4 - Número primo
+	 */
+
 	funcao inicio() {
 		inteiro num
 		logico cond = verdadeiro

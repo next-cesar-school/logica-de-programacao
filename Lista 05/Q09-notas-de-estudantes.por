@@ -1,6 +1,11 @@
 programa
 {
-	
+	/**
+	 * Lista de Exercícios 05 - Aula 06
+	 * Exercícios de Aprofundamento
+	 * Questão: 9 - Notas de estudantes
+	 */
+
 	funcao inicio()
 	{
 		inteiro n, i, acima = 0

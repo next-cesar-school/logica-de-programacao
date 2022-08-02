@@ -1,9 +1,10 @@
 programa
 {
-	/**
+	
+	/**
 	 * Lista de Exercícios 05 - Aula 06
 	 * Exercícios Fundamentais
-	 * Questão: 7 - Aplicativo de Trnasporte
+	 * Questão: 7 - Aplicativo de Transporte
 	 */
 	 
 	funcao inicio()

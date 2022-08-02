@@ -1,6 +1,11 @@
 programa
 {
-	
+	/**
+	 * Lista de Exercícios 05 - Aula 06
+	 * Exercícios Fundamentais
+	 * Questão: 6 - Número ímpares e primos
+	 */
+
 	funcao inicio()
 	{
 		inteiro impar = 0

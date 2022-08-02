@@ -1,6 +1,11 @@
 programa
 {
-	
+	/**
+	 * Lista de Exercícios 05 - Aula 06
+	 * Exercícios Fundamentais
+	 * Questão: 8 - Cor da camisa
+	 */
+
 	funcao inicio()
 	{
 		cadeia cor
