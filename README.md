@@ -8,4 +8,5 @@ Correção das listas de exercícios
 - [Lista de Exercício 03](/Lista%2003/) ✅
 - [Lista de Exercício 04](/Lista%2004/) ✅
 - [Lista de Exercício 05](/Lista%2005/) ✅
-- Lista de Exercício 06 ⏳
+- [Lista de Exercício 06](/Lista%2006/) ✅
+- Lista de Exercício 07 ⏳
