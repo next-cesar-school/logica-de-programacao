@@ -6,31 +6,31 @@ programa {
 	 */
 
 	funcao inicio() {
+		inteiro quant_divisores = 0, cont = 1
 		inteiro num
-		logico cond = verdadeiro
+		logico primo_nao_encontrado = verdadeiro
 		
-		faca {
-		    inteiro divisores = 0
-		    
-		    escreva("Insira um número: ")
+		enquanto(primo_nao_encontrado) {
+		    escreva("Insira um número primo: ")
 		    leia(num)
 		    
-		    inteiro i = 1
-		    enquanto(i <= num) {
-		        se(num%i == 0) {
-		            divisores++
-		        }
-		        i++
-		    }
-		    
-		    escreva("Quantidade de divisores: ", divisores, "\n")
-		    se(divisores <= 2) {
-		        escreva("Esse é um número primo\n")
-		        cond = falso
-		    } senao {
-		        escreva("Esse não é um número primo\n")
-		    }
-		} enquanto(cond)
+		    quant_divisores = 0
+		    cont = 1
+		    enquanto(cont <= num) {
+    		    se(num % cont == 0) {
+    		        quant_divisores++
+    		    }
+    		    cont++
+    		}
+    		
+    		escreva("Quant divisores ", quant_divisores, "\n")
+    		se(quant_divisores == 2) {
+    		    escreva("É primo, mô véi!\n")
+    		    primo_nao_encontrado = falso
+    		} senao {
+    		    escreva("Não é primo, mô véi\n")
+    		}
+		}
 	}
 }
 

@@ -6,39 +6,39 @@ programa
 	 * Questão: 3 - Números ímpares
 	 */
 	
-	funcao inicio()
-	{
-		inteiro n, contador_impar = 0, maior = 0, menor = 0, somatorio = 0
-		logico primeiro = verdadeiro
-
-		faca{
-			escreva("Insira um número: ")
-			leia(n)
-
-			se(primeiro) {
-				maior = n
-				menor = n
-				primeiro = falso
-			}
-
-			se(n % 2 != 0) {
-				se(n > maior) {
-					maior = n
-				}
-
-				se(n < menor) {
-					menor = n
-				}
-
-				somatorio += n
-				contador_impar++
-			}
-			
-		} enquanto(contador_impar < 3)
+	funcao inicio() {
+		inteiro contador_impar = 0, num, soma_impar = 0, maior = 0, menor = 0
+	    logico primeira_vez = verdadeiro
+	    const inteiro QUANT_NUMEROS = 3
+	    
+		faca {
+		    escreva("Insira um número ímpar: ")
+		    leia(num)
+		    
+		    se(num % 2 != 0) { // checa se o número é impar
+		        contador_impar++
+		        soma_impar += num
+		        
+		        se(primeira_vez) { // inicializa os valores de menor e maior com o 1º número
+		            maior = num
+		            menor = num
+		            primeira_vez = falso
+		        }
+		        
+		        se(num < menor) {
+		            menor = num
+		        }
+		        
+		        se(num > maior) {
+		            maior = num
+		        }
+		    }
 		
-		escreva("O menor número: ", menor, "\n")
-		escreva("O maior número: ", maior, "\n")
-		escreva("A soma dos valores: ", somatorio)
+		} enquanto(contador_impar < QUANT_NUMEROS)
+		
+		escreva("O menor valor é ", menor, "\n")
+		escreva("O maior valor é ", maior, "\n")
+		escreva("A soma dos valores: ", soma_impar)
 	}
 }
 
