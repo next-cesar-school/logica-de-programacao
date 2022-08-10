@@ -12,4 +12,4 @@ Correção das listas de exercícios
 - [Lista de Exercício 07](/Lista%2007/) ✅
 - [Lista de Exercício 08](/Lista%2008/) ✅
 - [Lista de Exercício 09](/Lista%2009/) ✅
-- Lista de Exercício 10 ⏳
+- [Lista de Exercício 10](/Lista%2010/) ✅
